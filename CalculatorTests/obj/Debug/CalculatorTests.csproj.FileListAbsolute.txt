@@ -1,0 +1,12 @@
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\AwesomeCalculator.exe
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\nunit.framework.dll
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\AwesomeCalculator.pdb
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\bin\Debug\nunit.framework.xml
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\obj\Debug\CalculatorTests.csprojAssemblyReference.cache
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CoreCompileInputs.cache
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CopyComplete
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+F:\Software Quality Test Engineering\testing medologies\AwesomeCalculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
