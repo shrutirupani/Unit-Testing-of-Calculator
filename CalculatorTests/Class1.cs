@@ -151,7 +151,7 @@ namespace CalculatorTests
         }
 
         [Test]
-        public void GetDivision_Input25point25and5_Returns5point05()
+        public void GetDivision_Input25and5_Returns5()
         {//Arrange 
             double number1 = 25.25;
             double number2 = 5;
