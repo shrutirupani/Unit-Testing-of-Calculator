@@ -62,10 +62,10 @@ namespace CalculatorTests
         }
 
         [Test]
-        public void GetSubtraction_Input2_and67_Returnsminus65()
+        public void GetSubtraction_Input2_and69_Returnsminus67()
         {//Arrange 
             double number1 = 2;
-            double number2 = 67;
+            double number2 = 69;
             double expectedResult = number1 - number2;
             Calc testCalc = new Calc(number1, number2);
             //Act 
@@ -153,7 +153,7 @@ namespace CalculatorTests
         [Test]
         public void GetDivision_Input25and5_Returns5()
         {//Arrange 
-            double number1 = 25.25;
+            double number1 = 25;
             double number2 = 5;
             double expectedResult = number1 / number2;
             Calc testCalc = new Calc(number1, number2);
